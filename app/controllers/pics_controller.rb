@@ -4,8 +4,6 @@ class PicsController < ApplicationController
 
 		@pics = Pic.all
 
-
-
 	end
 
 end

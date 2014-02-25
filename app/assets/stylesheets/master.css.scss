@@ -30,21 +30,3 @@ body {
 	font-size: 32px;
 	line-height: 32px;
 }
-
-#logo {
-float: left;
-margin-right: 10px;
-font-size: 1.7em;
-color: $niceBlandGreen;
-text-transform: uppercase;
-letter-spacing: -1px;
-padding-top: 9px;
-font-weight: bold;
-line-height: 1;
-&:hover {
-font-size: 1.75em;
-color: white;
-background: $shinyOrange;
-text-decoration: none;
-}
-}
